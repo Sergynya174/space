@@ -1,0 +1,20 @@
+.carousel__button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 32px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+    color: #0050EF;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 32px 0 114px;
+}
+
+.carousel__button:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.carousel__dot{
+    width: 29px;
+    height: 3px;
+    background: rgba(255, 255, 255, 0.3);;
+    border-radius: 2px;
+    margin-right: 6px;
+    cursor: pointer;
+}
+
+.carousel__dot:last-of-type{
+    margin-right: 0;
+}

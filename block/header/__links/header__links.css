@@ -1,0 +1,5 @@
+.header__links{
+    width: 288px;
+    display: flex;
+    align-items: center;
+}

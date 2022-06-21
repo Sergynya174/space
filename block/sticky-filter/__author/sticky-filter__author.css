@@ -1,0 +1,11 @@
+.sticky-filter__author{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 336px;
+    height: 52px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+    color: #888888;
+}

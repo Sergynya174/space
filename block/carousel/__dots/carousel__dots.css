@@ -1,0 +1,5 @@
+.carousel__dots{
+    display: flex;
+    width: 99px;
+    height: 3px;
+}

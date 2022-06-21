@@ -1,0 +1,7 @@
+.carousel{
+    position: relative;
+    background: linear-gradient(100.68deg, #5991FF 13.6%, #0050EF 94.69%);
+    color: #FFFFFF;
+    display: flex;
+    font-family: "Montserrat", Arial, Helvetica, sans-serif;
+}

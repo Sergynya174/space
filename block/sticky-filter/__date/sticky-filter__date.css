@@ -1,0 +1,10 @@
+.sticky-filter__date{
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    width: 335px;
+    height: 52px;
+    margin: auto 20px auto 138px;
+    border: none;
+    color: #888888;
+}
