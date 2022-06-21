@@ -3,7 +3,6 @@
     flex-direction: row;
     align-items: flex-start;
     padding: 8px 20px;
-    width: 124px;
     height: 34px;
     background: rgba(0, 80, 239, 0.06);
     border-radius: 10px;
@@ -14,4 +13,5 @@
     line-height: 18px;
     border: none;
     margin-top: 24px;
+    cursor: pointer;
 }
